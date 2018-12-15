@@ -38,7 +38,7 @@ More information about the *person\_course* dataset is available in the [followi
 
 The repository contains two other data sources:
 
-* *course_metadata*: Contains metadata from the courses
+* [*course_metadata*](course_metadata.csv): Contains metadata from the courses
 	* *course_id*: Course identifier.
 	* *semester*: Semester (Fall, Spring, Summer) and year when the course took place.
 	* *year*: Operating year for the analysis computed based on the following function:
@@ -61,7 +61,7 @@ def defineYearBasedSemester(semester):
     return year
 ```
 
-* *country_metadata*: Contains metadata from each country. These data contain the 2018 Human Development Indices and Indicators from the United Nations (UN). More info available in this [link](http://hdr.undp.org/sites/default/files/hdr2018_technical_notes.pdf).
+* [*country_metadata*](country_metadata.csv): Contains metadata from each country. These data contain the 2018 Human Development Indices and Indicators from the United Nations (UN). More info available in this [link](http://hdr.undp.org/sites/default/files/hdr2018_technical_notes.pdf).
 	* *name*: Name of the country.
 	* *alpha-2*: Two-letter ISO code of the country.
 	* *region*: Region of the country.
@@ -72,7 +72,7 @@ def defineYearBasedSemester(semester):
 
 ## Reproducing the analysis
 
-The repository includes an IPython notebook with the metada files *course\_metadata.csv* and *country\_metadata.csv*. Once you request from MITx and HarvardX the person_course dataset with the indicated columns, name that file in the same folder than others as *person\_course.csv* and you should be able to proceed and reproduce the analysis with the script *MOOC\_Pivot.ipynb*. The code has been released under MIT license.
+The repository includes an IPython notebook with the metada files [*course_metadata*](course_metadata.csv) and [*country_metadata*](country_metadata.csv). Once you request from MITx and HarvardX the person_course dataset with the indicated columns, name that file in the same folder than others as *person\_course.csv* and you should be able to proceed and reproduce the analysis with the script [*MOOC\_Pivot.ipynb*](MOOC_Pivot.ipynb). The code has been released under MIT license.
 
 ## Contact
 
