@@ -5,7 +5,7 @@ This repository includes supplementary material to facilitate the replication of
 
 ## Data request
 
-MITx and HarvardX learner data are treated as student data meriting FERPA protections. MITx data can be requested at [http://web.mit.edu/ir/mitx/](http://web.mit.edu/ir/mitx/) and HarvardX data at [https://vpal.harvard.edu/vpal-research-request](https://vpal.harvard.edu/vpal-research-request). You should request the *person_course* course dataset containinig the 565 courses included in this analysis from 2012 to May 2018. The specific *course_id's* that you need to request are in the *course_metadata.csv* file. You should request the following columns for the *person_course* dataset: 
+MITx and HarvardX learner data are treated as student data meriting FERPA protections. MITx data can be requested at [http://web.mit.edu/ir/mitx/](http://web.mit.edu/ir/mitx/) and HarvardX data at [https://vpal.harvard.edu/vpal-research-request](https://vpal.harvard.edu/vpal-research-request). You should request the *person_course* course dataset containinig the 565 courses included in this analysis from 2012 to May 2018. The specific *course_id's* that you need to request are in the [*course_metadata*](course_metadata.csv) file. You should request the following columns for the *person_course* dataset: 
 
 ```
 ['course_id', 'user_id', 'cc_by_ip', 'roles', 'mode', 'viewed',
