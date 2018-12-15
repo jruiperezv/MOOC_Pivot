@@ -1,0 +1,250 @@
+name,alpha-2,region,sub-region,human_development_index,human_development_category
+Afghanistan,AF,Asia,Southern Asia,0.479,low_human_development
+Aland Islands,AX,Europe,Northern Europe,,
+Albania,AL,Europe,Southern Europe,0.764,high_human_development
+Algeria,DZ,Africa,Northern Africa,0.745,high_human_development
+American Samoa,AS,Oceania,Polynesia,0.8270000000000001,very_high_human_development
+Andorra,AD,Europe,Southern Europe,0.858,very_high_human_development
+Angola,AO,Africa,Sub-Saharan Africa,0.5329999999999999,low_human_development
+Anguilla,AI,Americas,Latin America and the Caribbean,0.865,very_high_human_development
+Antarctica,AQ,,,,
+Antigua and Barbuda,AG,Americas,Latin America and the Caribbean,0.7859999999999999,high_human_development
+Argentina,AR,Americas,Latin America and the Caribbean,0.8270000000000001,very_high_human_development
+Armenia,AM,Asia,Western Asia,0.743,high_human_development
+Aruba,AW,Americas,Latin America and the Caribbean,0.9079999999999999,very_high_human_development
+Australia,AU,Oceania,Australia and New Zealand,0.9390000000000001,very_high_human_development
+Austria,AT,Europe,Western Europe,0.893,very_high_human_development
+Azerbaijan,AZ,Asia,Western Asia,0.759,high_human_development
+Bahamas,BS,Americas,Latin America and the Caribbean,0.792,high_human_development
+Bahrain,BH,Asia,Western Asia,0.8240000000000001,very_high_human_development
+Bangladesh,BD,Asia,Southern Asia,0.579,medium_human_development
+Barbados,BB,Americas,Latin America and the Caribbean,0.795,high_human_development
+Belarus,BY,Europe,Eastern Europe,0.7959999999999999,high_human_development
+Belgium,BE,Europe,Western Europe,0.8959999999999999,very_high_human_development
+Belize,BZ,Americas,Latin America and the Caribbean,0.706,high_human_development
+Benin,BJ,Africa,Sub-Saharan Africa,0.485,low_human_development
+Bermuda,BM,Americas,Northern America,0.981,very_high_human_development
+Bhutan,BT,Asia,Southern Asia,0.607,medium_human_development
+Bolivia (Plurinational State of),BO,Americas,Latin America and the Caribbean,0.674,medium_human_development
+"Bonaire, Sint Eustatius and Saba",BQ,Americas,Latin America and the Caribbean,,
+Bosnia and Herzegovina,BA,Europe,Southern Europe,0.75,high_human_development
+Botswana,BW,Africa,Sub-Saharan Africa,0.698,medium_human_development
+Bouvet Island,BV,Americas,Latin America and the Caribbean,,
+Brazil,BR,Americas,Latin America and the Caribbean,0.754,high_human_development
+British Indian Ocean Territory,IO,Africa,Sub-Saharan Africa,,
+Brunei Darussalam,BN,Asia,South-eastern Asia,0.865,very_high_human_development
+Bulgaria,BG,Europe,Eastern Europe,0.794,high_human_development
+Burkina Faso,BF,Africa,Sub-Saharan Africa,0.402,low_human_development
+Burundi,BI,Africa,Sub-Saharan Africa,0.40399999999999997,low_human_development
+Cabo Verde,CV,Africa,Sub-Saharan Africa,0.648,medium_human_development
+Cambodia,KH,Asia,South-eastern Asia,0.563,medium_human_development
+Cameroon,CM,Africa,Sub-Saharan Africa,0.518,low_human_development
+Canada,CA,Americas,Northern America,0.92,very_high_human_development
+Cayman Islands,KY,Americas,Latin America and the Caribbean,0.983,very_high_human_development
+Central African Republic,CF,Africa,Sub-Saharan Africa,0.35200000000000004,low_human_development
+Chad,TD,Africa,Sub-Saharan Africa,0.396,low_human_development
+Chile,CL,Americas,Latin America and the Caribbean,0.847,very_high_human_development
+China,CN,Asia,Eastern Asia,0.738,high_human_development
+Christmas Island,CX,Oceania,Australia and New Zealand,,
+Cocos (Keeling) Islands,CC,Oceania,Australia and New Zealand,,
+Colombia,CO,Americas,Latin America and the Caribbean,0.727,high_human_development
+Comoros,KM,Africa,Sub-Saharan Africa,0.49700000000000005,low_human_development
+Congo,CG,Africa,Sub-Saharan Africa,0.5920000000000001,medium_human_development
+Congo (Democratic Republic of the),CD,Africa,Sub-Saharan Africa,0.435,low_human_development
+Cook Islands,CK,Oceania,Polynesia,0.8290000000000001,very_high_human_development
+Costa Rica,CR,Americas,Latin America and the Caribbean,0.7759999999999999,high_human_development
+Cote d'Ivoire,CI,Africa,Sub-Saharan Africa,0.474,low_human_development
+Croatia,HR,Europe,Southern Europe,0.8270000000000001,very_high_human_development
+Cuba,CU,Americas,Latin America and the Caribbean,0.775,high_human_development
+Curacao,CW,Americas,Latin America and the Caribbean,0.40399999999999997,low_human_development
+Cyprus,CY,Asia,Western Asia,0.856,very_high_human_development
+Czechia,CZ,Europe,Eastern Europe,0.878,very_high_human_development
+Denmark,DK,Europe,Northern Europe,0.925,very_high_human_development
+Djibouti,DJ,Africa,Sub-Saharan Africa,0.473,low_human_development
+Dominica,DM,Americas,Latin America and the Caribbean,0.726,high_human_development
+Dominican Republic,DO,Americas,Latin America and the Caribbean,0.722,high_human_development
+Ecuador,EC,Americas,Latin America and the Caribbean,0.7390000000000001,high_human_development
+Egypt,EG,Africa,Northern Africa,0.691,medium_human_development
+El Salvador,SV,Americas,Latin America and the Caribbean,0.68,medium_human_development
+Equatorial Guinea,GQ,Africa,Sub-Saharan Africa,0.5920000000000001,medium_human_development
+Eritrea,ER,Africa,Sub-Saharan Africa,0.42,low_human_development
+Estonia,EE,Europe,Northern Europe,0.865,very_high_human_development
+Ethiopia,ET,Africa,Sub-Saharan Africa,0.44799999999999995,low_human_development
+Falkland Islands (Malvinas),FK,Americas,Latin America and the Caribbean,0.9329999999999999,very_high_human_development
+Faroe Islands,FO,Europe,Northern Europe,0.95,very_high_human_development
+Fiji,FJ,Oceania,Melanesia,0.736,high_human_development
+Finland,FI,Europe,Northern Europe,0.895,very_high_human_development
+France,FR,Europe,Western Europe,0.897,very_high_human_development
+French Guiana,GF,Americas,Latin America and the Caribbean,0.7390000000000001,high_human_development
+French Polynesia,PF,Oceania,Polynesia,0.737,high_human_development
+French Southern Territories,TF,Africa,Sub-Saharan Africa,,
+Gabon,GA,Africa,Sub-Saharan Africa,0.6970000000000001,medium_human_development
+Gambia,GM,Africa,Sub-Saharan Africa,0.452,low_human_development
+Georgia,GE,Asia,Western Asia,0.769,high_human_development
+Germany,DE,Europe,Western Europe,0.9259999999999999,very_high_human_development
+Ghana,GH,Africa,Sub-Saharan Africa,0.579,medium_human_development
+Gibraltar,GI,Europe,Southern Europe,0.961,very_high_human_development
+Greece,GR,Europe,Southern Europe,0.866,very_high_human_development
+Greenland,GL,Americas,Northern America,0.8690000000000001,very_high_human_development
+Grenada,GD,Americas,Latin America and the Caribbean,0.754,high_human_development
+Guadeloupe,GP,Americas,Latin America and the Caribbean,0.8220000000000001,very_high_human_development
+Guam,GU,Oceania,Micronesia,0.9009999999999999,very_high_human_development
+Guatemala,GT,Americas,Latin America and the Caribbean,0.64,medium_human_development
+Guernsey,GG,Europe,Northern Europe,0.975,very_high_human_development
+Guinea,GN,Africa,Sub-Saharan Africa,0.414,low_human_development
+Guinea-Bissau,GW,Africa,Sub-Saharan Africa,0.424,low_human_development
+Guyana,GY,Americas,Latin America and the Caribbean,0.638,medium_human_development
+Haiti,HT,Americas,Latin America and the Caribbean,0.493,low_human_development
+Heard Island and McDonald Islands,HM,Oceania,Australia and New Zealand,,
+Holy See,VA,Europe,Southern Europe,,
+Honduras,HN,Americas,Latin America and the Caribbean,0.625,medium_human_development
+Hong Kong,HK,Asia,Eastern Asia,0.917,very_high_human_development
+Hungary,HU,Europe,Eastern Europe,0.836,very_high_human_development
+Iceland,IS,Europe,Northern Europe,0.9209999999999999,very_high_human_development
+India,IN,Asia,Southern Asia,0.624,medium_human_development
+Indonesia,ID,Asia,South-eastern Asia,0.6890000000000001,medium_human_development
+Iran (Islamic Republic of),IR,Asia,Southern Asia,0.774,high_human_development
+Iraq,IQ,Asia,Western Asia,0.649,medium_human_development
+Ireland,IE,Europe,Northern Europe,0.9229999999999999,very_high_human_development
+Isle of Man,IM,Europe,Northern Europe,0.95,very_high_human_development
+Israel,IL,Asia,Western Asia,0.899,very_high_human_development
+Italy,IT,Europe,Southern Europe,0.887,very_high_human_development
+Jamaica,JM,Americas,Latin America and the Caribbean,0.73,high_human_development
+Japan,JP,Asia,Eastern Asia,0.903,very_high_human_development
+Jersey,JE,Europe,Northern Europe,0.985,very_high_human_development
+Jordan,JO,Asia,Western Asia,0.741,high_human_development
+Kazakhstan,KZ,Asia,Central Asia,0.794,high_human_development
+Kenya,KE,Africa,Sub-Saharan Africa,0.555,medium_human_development
+Kiribati,KI,Oceania,Micronesia,0.588,medium_human_development
+Korea (Democratic People's Republic of),KP,Asia,Eastern Asia,0.733,high_human_development
+Korea (Republic of),KR,Asia,Eastern Asia,0.9009999999999999,very_high_human_development
+Kuwait,KW,Asia,Western Asia,0.8,very_high_human_development
+Kyrgyzstan,KG,Asia,Central Asia,0.664,medium_human_development
+Lao People's Democratic Republic,LA,Asia,South-eastern Asia,0.586,medium_human_development
+Latvia,LV,Europe,Northern Europe,0.83,very_high_human_development
+Lebanon,LB,Asia,Western Asia,0.763,high_human_development
+Lesotho,LS,Africa,Sub-Saharan Africa,0.49700000000000005,low_human_development
+Liberia,LR,Africa,Sub-Saharan Africa,0.42700000000000005,low_human_development
+Libya,LY,Africa,Northern Africa,0.716,high_human_development
+Liechtenstein,LI,Europe,Western Europe,0.912,very_high_human_development
+Lithuania,LT,Europe,Northern Europe,0.848,very_high_human_development
+Luxembourg,LU,Europe,Western Europe,0.898,very_high_human_development
+Macao,MO,Asia,Eastern Asia,0.905,very_high_human_development
+Macedonia (the former Yugoslav Republic of),MK,Europe,Southern Europe,0.748,high_human_development
+Madagascar,MG,Africa,Sub-Saharan Africa,0.512,low_human_development
+Malawi,MW,Africa,Sub-Saharan Africa,0.47600000000000003,low_human_development
+Malaysia,MY,Asia,South-eastern Asia,0.789,high_human_development
+Maldives,MV,Asia,Southern Asia,0.701,high_human_development
+Mali,ML,Africa,Sub-Saharan Africa,0.442,low_human_development
+Malta,MT,Europe,Southern Europe,0.856,very_high_human_development
+Marshall Islands,MH,Oceania,Micronesia,0.738,high_human_development
+Martinique,MQ,Americas,Latin America and the Caribbean,0.813,very_high_human_development
+Mauritania,MR,Africa,Sub-Saharan Africa,0.513,low_human_development
+Mauritius,MU,Africa,Sub-Saharan Africa,0.7809999999999999,high_human_development
+Mayotte,YT,Africa,Sub-Saharan Africa,0.653,medium_human_development
+Mexico,MX,Americas,Latin America and the Caribbean,0.762,high_human_development
+Micronesia (Federated States of),FM,Oceania,Micronesia,0.638,medium_human_development
+Moldova (Republic of),MD,Europe,Eastern Europe,0.6990000000000001,medium_human_development
+Monaco,MC,Europe,Western Europe,0.956,very_high_human_development
+Mongolia,MN,Asia,Eastern Asia,0.735,high_human_development
+Montenegro,ME,Europe,Southern Europe,0.807,very_high_human_development
+Montserrat,MS,Americas,Latin America and the Caribbean,0.8220000000000001,very_high_human_development
+Morocco,MA,Africa,Northern Africa,0.647,medium_human_development
+Mozambique,MZ,Africa,Sub-Saharan Africa,0.418,low_human_development
+Myanmar,MM,Asia,South-eastern Asia,0.556,medium_human_development
+Namibia,,Africa,Sub-Saharan Africa,0.64,medium_human_development
+Nauru,NR,Oceania,Micronesia,0.721,high_human_development
+Nepal,NP,Asia,Southern Asia,0.5579999999999999,medium_human_development
+Netherlands,NL,Europe,Western Europe,0.924,very_high_human_development
+New Caledonia,NC,Oceania,Melanesia,0.789,high_human_development
+New Zealand,NZ,Oceania,Australia and New Zealand,0.915,very_high_human_development
+Nicaragua,NI,Americas,Latin America and the Caribbean,0.645,medium_human_development
+Niger,NE,Africa,Sub-Saharan Africa,0.353,low_human_development
+Nigeria,NG,Africa,Sub-Saharan Africa,0.527,low_human_development
+Niue,NU,Oceania,Polynesia,0.794,high_human_development
+Norfolk Island,NF,Oceania,Australia and New Zealand,0.958,very_high_human_development
+Northern Mariana Islands,MP,Oceania,Micronesia,0.875,very_high_human_development
+Norway,NO,Europe,Northern Europe,0.9490000000000001,very_high_human_development
+Oman,OM,Asia,Western Asia,0.7959999999999999,high_human_development
+Pakistan,PK,Asia,Southern Asia,0.55,medium_human_development
+Palau,PW,Oceania,Micronesia,0.7879999999999999,high_human_development
+"Palestine, State of",PS,Asia,Western Asia,0.684,medium_human_development
+Panama,PA,Americas,Latin America and the Caribbean,0.7879999999999999,high_human_development
+Papua New Guinea,PG,Oceania,Melanesia,0.516,low_human_development
+Paraguay,PY,Americas,Latin America and the Caribbean,0.693,medium_human_development
+Peru,PE,Americas,Latin America and the Caribbean,0.74,high_human_development
+Philippines,PH,Asia,South-eastern Asia,0.682,medium_human_development
+Pitcairn,PN,Oceania,Polynesia,,
+Poland,PL,Europe,Eastern Europe,0.855,very_high_human_development
+Portugal,PT,Europe,Southern Europe,0.843,very_high_human_development
+Puerto Rico,PR,Americas,Latin America and the Caribbean,0.845,very_high_human_development
+Qatar,QA,Asia,Western Asia,0.856,very_high_human_development
+Reunion,RE,Africa,Sub-Saharan Africa,0.75,high_human_development
+Romania,RO,Europe,Eastern Europe,0.802,very_high_human_development
+Russian Federation,RU,Europe,Eastern Europe,0.804,very_high_human_development
+Rwanda,RW,Africa,Sub-Saharan Africa,0.498,low_human_development
+Saint Barthelemy,BL,Americas,Latin America and the Caribbean,0.688,medium_human_development
+"Saint Helena, Ascension and Tristan da Cunha",SH,Africa,Sub-Saharan Africa,0.797,high_human_development
+Saint Kitts and Nevis,KN,Americas,Latin America and the Caribbean,0.765,high_human_development
+Saint Lucia,LC,Americas,Latin America and the Caribbean,0.735,high_human_development
+Saint Martin (French part),MF,Americas,Latin America and the Caribbean,0.7020000000000001,high_human_development
+Saint Pierre and Miquelon,PM,Americas,Northern America,0.762,high_human_development
+Saint Vincent and the Grenadines,VC,Americas,Latin America and the Caribbean,0.722,high_human_development
+Samoa,WS,Oceania,Polynesia,0.7040000000000001,high_human_development
+San Marino,SM,Europe,Southern Europe,0.961,very_high_human_development
+Sao Tome and Principe,ST,Africa,Sub-Saharan Africa,0.574,medium_human_development
+Saudi Arabia,SA,Asia,Western Asia,0.847,very_high_human_development
+Senegal,SN,Africa,Sub-Saharan Africa,0.494,low_human_development
+Serbia,RS,Europe,Southern Europe,0.7759999999999999,high_human_development
+Seychelles,SC,Africa,Sub-Saharan Africa,0.782,high_human_development
+Sierra Leone,SL,Africa,Sub-Saharan Africa,0.42,low_human_development
+Singapore,SG,Asia,South-eastern Asia,0.925,very_high_human_development
+Sint Maarten (Dutch part),SX,Americas,Latin America and the Caribbean,,
+Slovakia,SK,Europe,Eastern Europe,0.845,very_high_human_development
+Slovenia,SI,Europe,Southern Europe,0.89,very_high_human_development
+Solomon Islands,SB,Oceania,Melanesia,0.515,low_human_development
+Somalia,SO,Africa,Sub-Saharan Africa,0.364,low_human_development
+South Africa,ZA,Africa,Sub-Saharan Africa,0.6659999999999999,medium_human_development
+South Georgia and the South Sandwich Islands,GS,Americas,Latin America and the Caribbean,,
+South Sudan,SS,Africa,Sub-Saharan Africa,0.418,low_human_development
+Spain,ES,Europe,Southern Europe,0.884,very_high_human_development
+Sri Lanka,LK,Asia,Southern Asia,0.7659999999999999,high_human_development
+Sudan,SD,Africa,Northern Africa,0.49,low_human_development
+Suriname,SR,Americas,Latin America and the Caribbean,0.725,high_human_development
+Svalbard and Jan Mayen,SJ,Europe,Northern Europe,,
+Swaziland,SZ,Africa,Sub-Saharan Africa,0.541,low_human_development
+Sweden,SE,Europe,Northern Europe,0.9129999999999999,very_high_human_development
+Switzerland,CH,Europe,Western Europe,0.9390000000000001,very_high_human_development
+Syrian Arab Republic,SY,Asia,Western Asia,0.536,low_human_development
+"Taiwan, Province of China",TW,Asia,Eastern Asia,0.738,high_human_development
+Tajikistan,TJ,Asia,Central Asia,0.627,medium_human_development
+"Tanzania, United Republic of",TZ,Africa,Sub-Saharan Africa,0.531,low_human_development
+Thailand,TH,Asia,South-eastern Asia,0.74,high_human_development
+Timor-Leste,TL,Asia,South-eastern Asia,0.605,medium_human_development
+Togo,TG,Africa,Sub-Saharan Africa,0.48700000000000004,low_human_development
+Tokelau,TK,Oceania,Polynesia,0.75,high_human_development
+Tonga,TO,Oceania,Polynesia,0.721,high_human_development
+Trinidad and Tobago,TT,Americas,Latin America and the Caribbean,0.78,high_human_development
+Tunisia,TN,Africa,Northern Africa,0.725,high_human_development
+Turkey,TR,Asia,Western Asia,0.767,high_human_development
+Turkmenistan,TM,Asia,Central Asia,0.691,medium_human_development
+Turks and Caicos Islands,TC,Americas,Latin America and the Caribbean,0.873,very_high_human_development
+Tuvalu,TV,Oceania,Polynesia,0.711,high_human_development
+Uganda,UG,Africa,Sub-Saharan Africa,0.493,low_human_development
+Ukraine,UA,Europe,Eastern Europe,0.743,high_human_development
+United Arab Emirates,AE,Asia,Western Asia,0.84,very_high_human_development
+United Kingdom of Great Britain and Northern Ireland,GB,Europe,Northern Europe,0.909,very_high_human_development
+United States of America,US,Americas,Northern America,0.92,very_high_human_development
+United States Minor Outlying Islands,UM,Oceania,Micronesia,,
+Uruguay,UY,Americas,Latin America and the Caribbean,0.795,high_human_development
+Uzbekistan,UZ,Asia,Central Asia,0.701,high_human_development
+Vanuatu,VU,Oceania,Melanesia,0.597,medium_human_development
+Venezuela (Bolivarian Republic of),VE,Americas,Latin America and the Caribbean,0.767,high_human_development
+Viet Nam,VN,Asia,South-eastern Asia,0.6829999999999999,medium_human_development
+Virgin Islands (British),VG,Americas,Latin America and the Caribbean,0.945,very_high_human_development
+Virgin Islands (U.S.),VI,Americas,Latin America and the Caribbean,0.894,very_high_human_development
+Wallis and Futuna,WF,Oceania,Polynesia,0.763,high_human_development
+Western Sahara,EH,Africa,Northern Africa,,
+Yemen,YE,Asia,Western Asia,0.48200000000000004,low_human_development
+Zambia,ZM,Africa,Sub-Saharan Africa,0.579,medium_human_development
+Zimbabwe,ZW,Africa,Sub-Saharan Africa,0.516,low_human_development
