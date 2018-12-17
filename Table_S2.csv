@@ -1,25 +1,25 @@
 year,human_development_category,n_enrolments,n_certified,p_enrolments_within_year,p_certified_within_year
-Year 1,very_high_human_development,205955,10798,59.28,61.98
-Year 1,high_human_development,54483,2476,15.68,14.21
-Year 1,medium_human_development,74395,3351,21.41,19.24
-Year 1,low_human_development,12616,796,3.63,4.57
-Year 2,very_high_human_development,1359191,43235,65.55,71.55
-Year 2,high_human_development,318683,8429,15.37,13.95
-Year 2,medium_human_development,357971,7685,17.26,12.72
-Year 2,low_human_development,37780,1075,1.82,1.78
-Year 3,very_high_human_development,1583635,55674,62.82,71.2
-Year 3,high_human_development,414912,10903,16.46,13.94
-Year 3,medium_human_development,474704,10373,18.83,13.27
-Year 3,low_human_development,47543,1244,1.89,1.59
-Year 4,very_high_human_development,1798426,46790,61.95,71.66
-Year 4,high_human_development,483046,9659,16.64,14.79
-Year 4,medium_human_development,569422,8174,19.62,12.52
-Year 4,low_human_development,52073,675,1.79,1.03
-Year 5,very_high_human_development,947969,17827,57.44,68.71
-Year 5,high_human_development,335067,4626,20.3,17.83
-Year 5,medium_human_development,329609,3056,19.97,11.78
-Year 5,low_human_development,37632,436,2.28,1.68
-Year 6,very_high_human_development,954426,14341,55.58,68.7
-Year 6,high_human_development,305950,3325,17.82,15.93
-Year 6,medium_human_development,401982,2912,23.41,13.95
-Year 6,low_human_development,54975,298,3.2,1.43
+2012-13,very_high_human_development,205955,10798,59.28,61.98
+2012-13,high_human_development,54483,2476,15.68,14.21
+2012-13,medium_human_development,74395,3351,21.41,19.24
+2012-13,low_human_development,12616,796,3.63,4.57
+2013-14,very_high_human_development,1359191,43235,65.55,71.55
+2013-14,high_human_development,318683,8429,15.37,13.95
+2013-14,medium_human_development,357971,7685,17.26,12.72
+2013-14,low_human_development,37780,1075,1.82,1.78
+2014-15,very_high_human_development,1583635,55674,62.82,71.2
+2014-15,high_human_development,414912,10903,16.46,13.94
+2014-15,medium_human_development,474704,10373,18.83,13.27
+2014-15,low_human_development,47543,1244,1.89,1.59
+2015-16,very_high_human_development,1798426,46790,61.95,71.66
+2015-16,high_human_development,483046,9659,16.64,14.79
+2015-16,medium_human_development,569422,8174,19.62,12.52
+2015-16,low_human_development,52073,675,1.79,1.03
+2016-17,very_high_human_development,947969,17827,57.44,68.71
+2016-17,high_human_development,335067,4626,20.3,17.83
+2016-17,medium_human_development,329609,3056,19.97,11.78
+2016-17,low_human_development,37632,436,2.28,1.68
+2017-18,very_high_human_development,954426,14341,55.58,68.7
+2017-18,high_human_development,305950,3325,17.82,15.93
+2017-18,medium_human_development,401982,2912,23.41,13.95
+2017-18,low_human_development,54975,298,3.2,1.43
