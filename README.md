@@ -72,7 +72,10 @@ def defineYearBasedSemester(semester):
 
 ## Reproducing the analysis
 
-The repository includes an IPython notebook with the metada files [*course_metadata*](course_metadata.csv) and [*country_metadata*](country_metadata.csv). Once you request from MITx and HarvardX the *person\_course* dataset with the indicated columns, name that file in the same folder than others as *person\_course.csv* and you should be able to proceed and reproduce the analysis with the script [*MOOC\_Pivot.ipynb*](MOOC_Pivot.ipynb). Additionally, you can use the following RMarkdown script [*MOOC\_Pivot.Rmd*](MOOC_Pivot.Rmd), that loads the CSV output from [*MOOC\_Pivot.ipynb*](MOOC_Pivot.ipynb) to build the original **raw** visualizations of the paper. The code has been released under MIT license, please attribute to the original authors if used.
+The repository includes an IPython notebook with the metada files [*course_metadata*](course_metadata.csv) and [*country_metadata*](country_metadata.csv). Once you request from MITx and HarvardX the *person\_course* dataset with the indicated columns, name that file in the same folder than others as *person\_course.csv* and you should be able to proceed and reproduce the analysis with the script [*MOOC\_Pivot.ipynb*](MOOC_Pivot.ipynb). Additionally, you can use the following RMarkdown script [*MOOC\_Pivot.Rmd*](MOOC_Pivot.Rmd), that loads the CSV output from [*MOOC\_Pivot.ipynb*](MOOC_Pivot.ipynb) to build the original **raw** visualizations of the paper. You can download the output of the RMarkdown script in HTML ([*MOOC\_Pivot.html*](MOOC_Pivot.html)) or PDF ([*MOOC\_Pivot.pdf*](MOOC_Pivot.pdf)).
+
+
+The code has been released under MIT license, please attribute to the original authors if used.
 
 ## Contact
 
