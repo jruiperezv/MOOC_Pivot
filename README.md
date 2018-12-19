@@ -1,6 +1,6 @@
 # The MOOC Pivot: Supplementary material
 
-This repository includes supplementary materials to facilitate reproducing the data analysis presented in the Science paper titled as "The MOOC Pivot: From Teaching the World to Online Professional Degrees" with ID "10.1126/science.aav7958" co-authored by Justin Reich and José A. Ruipérez Valiente.
+This repository includes supplementary materials to facilitate reproducing the data analysis and visualizations presented in the Science paper titled as "The MOOC Pivot: From Teaching the World to Online Professional Degrees" with ID "10.1126/science.aav7958" co-authored by Justin Reich and José A. Ruipérez Valiente.
 
 
 ## Data request
@@ -72,12 +72,8 @@ def defineYearBasedSemester(semester):
 
 ## Reproducing the analysis
 
-The repository includes an IPython notebook with the metada files [*course_metadata*](course_metadata.csv) and [*country_metadata*](country_metadata.csv). Once you request from MITx and HarvardX the *person\_course* dataset with the indicated columns, name that file in the same folder than others as *person\_course.csv* and you should be able to proceed and reproduce the analysis with the script [*MOOC\_Pivot.ipynb*](MOOC_Pivot.ipynb). The code has been released under MIT license.
+The repository includes an IPython notebook with the metada files [*course_metadata*](course_metadata.csv) and [*country_metadata*](country_metadata.csv). Once you request from MITx and HarvardX the *person\_course* dataset with the indicated columns, name that file in the same folder than others as *person\_course.csv* and you should be able to proceed and reproduce the analysis with the script [*MOOC\_Pivot.ipynb*](MOOC_Pivot.ipynb). Additionally, you can use the following RMarkdown script [*MOOC\_Pivot.Rmd*](MOOC_Pivot.Rmd), that loads the CSV output from [*MOOC\_Pivot.ipynb*](MOOC_Pivot.ipynb) to build the original **raw** visualizations of the paper. The code has been released under MIT license, please attribute to the original authors if used.
 
 ## Contact
 
 For general questions about this research or access to data reach out to the corresponding author Justin Reich (<jreich@mit.edu>). For questions about data analysis and its reproducibility reach out to José A. Ruipérez Valiente (<jruipere@mit.edu>).
-
-
-
-
