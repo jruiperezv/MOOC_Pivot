@@ -2,7 +2,9 @@
 title: "Figures for the MOOC Pivot paper"
 author: "José A. Ruipérez Valiente"
 date: "12/19/2018"
-output: html_document
+output:
+  html_document: default
+  pdf_document: default
 ---
 
 ```{r setup, include=FALSE}
@@ -26,7 +28,7 @@ require(scales)
 
 # Churn rate
 
-```{r figure1}
+```{r figure1, dpi=300}
 
 churn_rate_data <- read.csv2("Table_S1.csv", sep = ",", dec = ".")
 
@@ -45,7 +47,7 @@ ggplot(data = churn_rate_data) +
 
 # Enrolments and Certifications by HDI Category and Year
 
-```{r figure2}
+```{r figure2, dpi=300}
 yearly_hdi_category_data <- read.csv2("Table_S2.csv", sep = ",", dec = ".")
 
 yearly_hdi_category_data$human_development_category = factor(yearly_hdi_category_data$human_development_category, 
@@ -74,10 +76,8 @@ grid.arrange(p_enrolments_hdi, p_certifications_hdi, ncol = 1)
 
 #  Completion by Cohort 
 
-```{r figure3}
+```{r figure3, dpi=300}
 completion_by_cohort <- read.csv2(file = "Table_S3.csv", sep = ",", dec = ".")
-completion_by_cohort <- completion_by_cohort[!completion_by_cohort$year == 2018,]
-completion_by_cohort <- completion_by_cohort[!completion_by_cohort$year == 2012,]
 
 completion_by_cohort$cohort <- factor(completion_by_cohort$cohort, levels = c("participants", "intend_complete", "verified"))
 
