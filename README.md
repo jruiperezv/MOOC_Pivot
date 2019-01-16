@@ -1,6 +1,6 @@
 # The MOOC Pivot: Supplementary material
 
-This repository includes supplementary materials to facilitate reproducing the data analysis and visualizations presented in Science 383:6423 (2019) paper titled as "The MOOC Pivot" ([publisher link](http://science.sciencemag.org/content/363/6423/130) and [post-print link](https://www.researchgate.net/publication/330316898_The_MOOC_pivot) with DOI "10.1126/science.aav7958" co-authored by Justin Reich and José A. Ruipérez Valiente.
+This repository includes supplementary materials to facilitate reproducing the data analysis and visualizations presented in Science 383:6423 (2019) paper titled as "The MOOC Pivot" with DOI "10.1126/science.aav7958" co-authored by Justin Reich and José A. Ruipérez Valiente ([publisher link](http://science.sciencemag.org/content/363/6423/130) and [post-print link](https://www.researchgate.net/publication/330316898_The_MOOC_pivot)).
 
 
 ## Data request
